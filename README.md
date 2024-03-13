@@ -4,7 +4,8 @@
 
 ------------------------------------------------
 # Business Question:
-## Which is a better market for residential real estate investment opportunities: Minneapolis or Saint Paul?
+## Which is a better market for residential real estate investment opportunities: 
+## Minneapolis or Saint Paul?
 
 ------------------------------------------------
 Purpose:

@@ -135,7 +135,7 @@ or the PDF:
 Project4_Presentation_20240312
 
 ---------------------------------------------------------------
-CONTINUING ANALYSIS / OUT OF SCOPE ITEMS / FOR THE FUTE:
+CONTINUING ANALYSIS / OUT OF SCOPE ITEMS / FOR THE FUTURE:
 ---------------------------------------------------------------
 
 Better understanding of the markets by following them over time.
